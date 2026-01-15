@@ -43,7 +43,6 @@ MsgUs/
 
 - TypeScript
 - HTML & CSS
-- *(Framework/library used in your frontend)*
 
 ### Backend
 
